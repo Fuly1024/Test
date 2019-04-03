@@ -7,6 +7,8 @@ public class MyException {
 //		System.out.println(FulyUtil.HexstrToString("71776572747975696f70"));
 //	}
 	
-	
+	void   test(){
+		System.out.println("fuly.demo");
+	}
 
 }
